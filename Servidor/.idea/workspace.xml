@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10c3ff42-9e61-4dc5-9cc1-43fec0048797" name="Default Changelist" comment="" />
+    <list default="true" id="10c3ff42-9e61-4dc5-9cc1-43fec0048797" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +33,27 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cliente" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="servidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="servidor" />
+      <module name="Servidor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.servidor" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,22 +65,82 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600839337460</updated>
-      <workItem from="1600839340685" duration="837000" />
+      <workItem from="1600839340685" duration="3240000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Intellij">
+      <created>1600840209308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600840209308</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit Intellij">
+      <created>1600840310972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600840310972</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Intellij" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="381" y="7" key="CommitChangelistDialog2" timestamp="1600840208156">
+    <state x="381" y="7" key="CommitChangelistDialog2" timestamp="1600840309999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="381" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600840208156" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1600839449219">
+    <state x="381" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600840309999" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1600917803617">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600839449219" />
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600917803617" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600917987201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600917987201" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600917987201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600917987201" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600917987201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600917987201" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600917987201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600917987201" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600840331958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600840331958" />
     <state x="209" y="33" key="new project wizard" timestamp="1600839451464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

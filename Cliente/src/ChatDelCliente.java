@@ -47,7 +47,7 @@ public class ChatDelCliente {
             }
 
 
-            /**socket = new Socket(t, 5557);*/
+
 
 
             String s = (String)JOptionPane.showInputDialog(
